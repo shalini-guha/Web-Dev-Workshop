@@ -1,0 +1,5 @@
+MDN : https://developer.mozilla.org/en-US/docs/Learn
+W3Schools: https://www.w3schools.com/
+Spyder Registration : https://docs.google.com/forms/d/e/1FAIpQLSfOm-Gv-yScA1pusMEPHZmyk0WPSzSVzasIOuUANL2Ad-aBFw/viewform?usp=sf_link
+
+Bootstrap : https://getbootstrap.com/
